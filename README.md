@@ -29,10 +29,12 @@ AOS Library – Scroll-triggered animations.
 GitHub Pages – Deployment and hosting.
 
 ___________________________________________________________________________________________
- Preview
-![Gracie Bites Hero Section]
-<img width="780" height="677" alt="gracie bites landing page" src="https://github.com/user-attachments/assets/b12963a1-e26a-42a5-a4ca-2ec88adeacd8" />
 
+# Preview
+
+<img width="1905" height="588" alt="graciebites website" src="https://github.com/user-attachments/assets/0f270d7a-98d1-417f-b795-384379f51862" />
+
+___________________________________________________________________________________________
  Author
 Ollie Dev
 
