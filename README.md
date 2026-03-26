@@ -2,11 +2,12 @@
 A modern, high-conversion landing page built for a premium African culinary brand. This project focuses on delivering a "digital-first" brand experience with smooth interactive elements and a mobile-responsive grid.
 
 ___________________________________________________________________________________________
- Live Demo
+ **Live Demo**
+ 
 View the Live Website Here https://graciebites.netlify.app/
 
 ___________________________________________________________________________________________
- Key Features
+# Key Features
 Polished UI/UX: A clean, high-contrast design optimized for food photography and brand storytelling.
 
 Fully Responsive: Seamless experience on smartphones and tablets.
