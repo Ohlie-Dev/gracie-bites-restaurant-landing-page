@@ -30,14 +30,15 @@ GitHub Pages – Deployment and hosting.
 
 ___________________________________________________________________________________________
  Preview
-![Gracie Bites Hero Section](.img/gracie bites landing page.png)
+![Gracie Bites Hero Section]
+<img width="780" height="677" alt="gracie bites landing page" src="https://github.com/user-attachments/assets/b12963a1-e26a-42a5-a4ca-2ec88adeacd8" />
 
  Author
 Ollie Dev
 
 Portfolio: [Link to your Netlify Portfolio]
 
-Instagram: [@ohlie_dev_](https://www.instagram.com/ohlie_dev_/)
+Instagram: [@ohlie_dev_](https://www.instagram.com/ohlie_dev_?igsh=dDdscTdhOGcwMmlw)
 
 GitHub: @ohlie-dev
 
